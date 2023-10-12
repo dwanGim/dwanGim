@@ -1,5 +1,4 @@
-### Hello there!👋
-### Mighty fine morning✨
+### Hello there!👋 Mighty fine morning✨
 ### if you ask me! I'm dwanGim the dev🌱. 
 
 <!--
