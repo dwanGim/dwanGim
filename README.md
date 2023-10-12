@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there!👋
+### Mighty fine morning✨, if you ask me! I'm dwanGim the dev🌱. 
 
 <!--
 **dwanGim/dwanGim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
